@@ -25,5 +25,49 @@ namespace WebAPiColaborativo.Controllers
         {
             return Ok(_disciplinas.GetDisciplinas());
         }
+
+        [HttpGet("{id}")]
+        public Disciplina Get(int id)
+        {
+            try
+            {
+                var disciplina = _disciplinas.GetDisciplinas().Where(d => d.Id == id).FirstOrDefault();
+
+                if (disciplina == null)
+                {
+                    return null;
+                }
+
+                return disciplina;
+            }
+            catch
+            {
+                return null;
+
+            }
+        }
+
+        [HttpPost]
+        public Disciplina Post([FromBody] Disciplina disciplina)
+        {
+            _disciplinas.Inserir(disciplina);
+
+            return disciplina;
+        }
+
+        [HttpPut("{id}")]
+        public Disciplina Put(int id, [FromBody] Disciplina disciplina)
+        {
+            _disciplinas.AtualizarDisciplina(id, disciplina);
+
+            return disciplina;
+        }
+
+        [HttpDelete("{id}")]
+        public void Delete(int id)
+        {
+            _disciplinas.Deletar(id);
+        }
+
     }
 }

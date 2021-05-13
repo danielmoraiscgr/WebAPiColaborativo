@@ -8,6 +8,7 @@
   <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="Data\" />
+    <Folder Include="Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />

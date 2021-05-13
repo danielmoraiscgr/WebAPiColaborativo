@@ -4,10 +4,11 @@ using System.IO;
 using System.Linq;
 using Newtonsoft.Json;
 using WebAPiColaborativo.Data;
+using WebAPiColaborativo.Interfaces;
 
 namespace WebAPiColaborativo.Model
 {
-    public class Disciplina
+    public class Disciplina : IDisciplina
     {
         public int Id { get; set; }
         public string Nome { get; set; }

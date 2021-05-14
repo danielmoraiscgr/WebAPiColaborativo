@@ -1,0 +1,24 @@
+﻿[
+  {
+    "id": 1,
+    "nome": "Desenvolvimento Colaborativo",
+    "curso": "Tecnologia de Analise e Desenvolvimento de Sistemas",
+    "cargahoraria": 60,
+    "professor": "Pedro Neto"
+  },
+  {
+    "id": 2,
+    "nome": "Desenvolvimento Multi-plataforma",
+    "curso": "Tecnologia de Analise e Desenvolvimento de Sistemas",
+    "cargahoraria": 60,
+    "professor": "Pedro Neto"
+  },
+  {
+    "id": 3,
+    "nome": "Inteligencia Artificial",
+    "curso": "Tecnologia de Analise e Desenvolvimento de Sistemas",
+    "cargahoraria": 60,
+    "professor": "Claudia Andrea"
+  }
+]
+

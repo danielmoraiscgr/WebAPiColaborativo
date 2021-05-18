@@ -11,10 +11,13 @@ namespace WebAPiColaborativo.Model
     public class Disciplina : IDisciplina
     {
         public int Id { get; set; }
+        [Required]
         public string Nome { get; set; }
         public string Curso { get; set; }
         public int CargaHoraria { get; set; }
         public string Professor { get; set; }
+        [ForeignKey("ProfessorId")]
+
 
         private readonly DbContext _dbContext;
 

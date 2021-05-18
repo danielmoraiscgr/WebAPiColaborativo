@@ -27,5 +27,32 @@ namespace WebAPIColaborativo.Testes
 
             Assert.Equal(listaDisciplinas.Count, listaDisciplinaMock.Count);
         }
+
+        [Fact]
+        public void BuscarGraduacaoProfessorByIdTeste()
+        {
+            // Arrange
+            Professor professor = new Professor();
+            Professor verificar = new Professor();
+
+            professor.Id = 1;
+            professor.Nome = "Pedro Neto";
+            professor.Graduacao = "Mestre"; // No banco esta Mestre, caso mude aqui para outra graduacao o teste nao passa
+
+            Mock<IProfessor> mock = new Mock<IProfessor>();
+            mock.Setup(p => p.GetById(professor.Id)).Returns(professor);
+
+            // Act
+            var graducaoMock = mock.Object.GetById(professor.Id);
+
+            var resultadoGraduacao = verificar.GetById(professor.Id);
+
+            // Assert
+
+            Assert.Equal(resultadoGraduacao.Graduacao, graducaoMock.Graduacao);
+
+
+
+        }
         }
     }

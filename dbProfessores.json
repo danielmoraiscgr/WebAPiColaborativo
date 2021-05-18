@@ -8,5 +8,16 @@
     "id": 2,
     "nome": "Claudia Andrea",
     "graduacao": "Mestre"
+  },
+  {
+    "id": 3,
+    "nome": "Jefferson Bussula",
+    "graduacao": "Pós Graduado"
+  },
+  {
+    "id": 4,
+    "nome": "Jaqueline Simone",
+    "graduacao": "Doutor"
   }
+
 ]

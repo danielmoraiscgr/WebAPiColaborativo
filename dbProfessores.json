@@ -1,0 +1,12 @@
+﻿[
+  {
+    "id": 1,
+    "nome": "Pedro Neto",
+    "graduacao": "Mestre"
+  },
+  {
+    "id": 2,
+    "nome": "Claudia Andrea",
+    "graduacao": "Mestre"
+  }
+]

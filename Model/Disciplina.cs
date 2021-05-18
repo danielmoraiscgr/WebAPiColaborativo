@@ -14,7 +14,7 @@ namespace WebAPiColaborativo.Model
         public string Nome { get; set; }
         public string Curso { get; set; }
         public int CargaHoraria { get; set; }
-        public string Professor { get; set; }
+        public Professor Professor { get; set; }
 
         private readonly DbContext _dbContext;
 
@@ -25,7 +25,7 @@ namespace WebAPiColaborativo.Model
 
         public List<Disciplina> GetDisciplinas()
         {
-            var json = File.ReadAllText(_dbContext.CaminhoBanco());
+            var json = File.ReadAllText(_dbContext.CaminhoBancoDisciplinas());
             var listaDisciplinas = JsonConvert.DeserializeObject<List<Disciplina>>(json);
 
             return listaDisciplinas; 
@@ -34,7 +34,7 @@ namespace WebAPiColaborativo.Model
         public bool AtualizarDbDisciplina(List<Disciplina> listaDisciplinas)
         {
             var json = JsonConvert.SerializeObject(listaDisciplinas, Formatting.Indented);
-            File.WriteAllText(_dbContext.CaminhoBanco(), json);
+            File.WriteAllText(_dbContext.CaminhoBancoDisciplinas(), json);
             return true;
         }
 

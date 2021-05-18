@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'webapicolaborativo'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_624a0a0c96cc4c4fab91ec1231cf90c4 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a66bb45fa8294f45b535fe439ea9f807 }}
         package: .

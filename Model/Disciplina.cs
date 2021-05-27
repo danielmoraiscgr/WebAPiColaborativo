@@ -14,7 +14,7 @@ namespace WebAPiColaborativo.Model
         public string Nome { get; set; }
         public string Curso { get; set; }
         public int CargaHoraria { get; set; }
-        public Professor Professor { get; set; }
+        //public Professor Professor { get; set; }
 
         private readonly DbContext _dbContext;
 

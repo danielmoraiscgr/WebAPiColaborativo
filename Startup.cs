@@ -28,6 +28,12 @@ namespace WebAPiColaborativo
             services.AddControllers();
 
             services.AddSwaggerGen();
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy("Policy",
+                    builder => builder.WithOrigins("http://localhost:3000/").AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +52,8 @@ namespace WebAPiColaborativo
             });
 
             app.UseHttpsRedirection();
+
+            app.UseCors("Policy");
 
             app.UseRouting();
 

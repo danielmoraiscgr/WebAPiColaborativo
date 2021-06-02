@@ -25,5 +25,51 @@
 | RF06     | Lançamento de Notas por Disciplina   | Inserir, Alterar, Consultar, Deletar e Relatório de Notas por Disciplina. 
 | RF07     | Relatório de nível de aprovação por disciplina    | Filtrar o relatório por ano letivo e disciplina. Caso deixe sem informação, vai trazer tudo
 
+## Tabela de Mudge
+
+|        | [RNO2] |	[RNO3] | [RNO4] |	[RN05] | [RNO6] |	[RNO7] | [RN08] | [Total] |	[%] |
+| ------ |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:---:|
+| [RNO1] | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | 14 | 27% |
+|	       | [RNO2] | RNO2-2 | RNO2-1 | RNO2-1 | RNO2-1 | RNO2-1 | RNO2-1 | 6 | 12% |
+|		     |        | [RNO3] | RNO3-2 | RNO3-2 | RNO3-1 | RNO3-1 | RNO3-2 | 8 | 16% |
+|        |        |        | [RNO4] | RNO4-2 | RNO4-1 | RNO4-1 | RNO4-2 | 6 | 12% |
+|				 |        |        |        | [RNO5] | RNO5-2 | RNO5-2 | RNO5-1 | 5 | 10% |
+| 	  	 |			  |        |        |        | [RNO6] | RNO6-3 | RNO6-3 | 6 | 12% |
+| 	  	 |			  |        |        |        |        | [RNO7] | RNO7-3 | 3 | 6% |
+| 	  	 |			  |        |        |        |        |        | [RNO8] | 3 | 6% |
+| 	  	 |			  |        |        |        |        |        |        | 51 | 100% |
+                      #####Peso 1 – pouco mais importante
+                      #####Peso 2 – moderadamente mais importante
+                      #####Peso 3 – muito mais importante
+                      
+                      
+## A Matriz de dependência de requisitos												
+												
+| Requisistos de negócio                              | RF01 | RF02 | RF03 | RF04 | RF05 | RF06 | RF07 | RF08 |
+| --------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|												
+| RN01 |	Conhecer as Disciplinas                     |   X  |      |      |      |      |      |      |      |							
+| RN02 |	Conhecer as Graduação dos Professores       |   X  |   X  |      |      |      |      |      |      |						
+| RN03 |	Conhecer os Professores                     |   X  |      |   X  |      |      |      |      |      |					
+| RN04 |	Conhecer os Alunos                          |   X  |      |      |      |      |      |      |      |							
+| RN05 |	Ligar os alunos as disciplinas              |   X  |      |      |      |      |      |      |      |							
+| RN06 |	Lancar as notas dos alunos                  |   X  |      |      |      |      |      |      |      |							
+| RN07 |	Calcular aprovação dos alunos               |   X  |      |      |      |      |      |      |      |							
+| RN08 |	Calcular aprovação por disciplina           |   X  |      |      |      |      |      |      |      |						
+|-------------------------------------------------------------------------------------------------------------|
+| Requisistos Funcionais	                            | RF01 | RF02 | RF03 | RF04 | RF05 | RF06 | RF07 | RF08 |
+| --------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| RF01 |	Cadastramento de Disciplinas				        |   X  |      |      |   X  |   X  |      |      |   X  |
+| RF02 |	Cadastramento de Graduação							    |      |   X  |      |   X  |      |      |      |      |
+| RF03 |	Cadastramento de Professores						    |   X  |   X  |   X  |   X  |      |      |      |      |
+| RF04 |	Cadastramento de Disciplinas por Professor	|   X  |      |   X  |   X  |   X  |      |      |      |	
+| RF05 |	Cadastramento de Alunos								      |   X  |      |      |      |      |   X  |      |   X  |
+| RF06 |	Cadastrar as Notas por Disciplina				    |   X  |      |      |      |   X  |   X  |   X  |   X  |
+| RF07 |	Relatório de Alunos Aprovados				        |   X  |      |      |      |   X  |   X  |   X  |   X  |
+| RN08 |	Relatório de nível de aprovação disciplina	|   X  |      |      |      |      |      |      |   X  |			
+
+
+
+
+
 
 

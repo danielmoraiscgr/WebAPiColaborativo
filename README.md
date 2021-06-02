@@ -57,14 +57,14 @@
 | <b>RN08</b> |	Calcular aprovação por disciplina     |   X  |     |      |      |      |      |      |      |      |						
 |                                                                                                                   |
 | <b>Requisistos Funcionais</b>	       |                     | <b>RF01</b> | <b>RF02</b> | <b>RF03</b> | <b>RF04</b> | <b>RF05</b> | <b>RF06</b> | <b>RF07</b> | <b>RF08</b> |
-| <b>RF01</b> |	Cadastramento de Disciplinas	                |      |   X  |      |      |   X  |   X  |      |      |   X  |
-| <b>RF02</b> | Cadastramento de Graduação	                |      |      |   X  |      |   X  |      |      |      |      |
-| <b>RF03</b> |	Cadastramento de Professores			|      |   X  |   X  |   X  |   X  |      |      |      |      |
-| <b>RF04</b> |	Cadastramento de Disciplinas por Professor	|      |   X  |      |   X  |   X  |   X  |      |      |      |	
-| <b>RF05</b> |	Cadastramento de Alunos				|      |   X  |      |      |      |      |   X  |      |   X  |
-| <b>RF06</b> |	Cadastrar as Notas por Disciplina		|      |   X  |      |      |      |   X  |   X  |   X  |   X  |
-| <b>RF07</b> |	Relatório de Alunos Aprovados			|      |   X  |      |      |      |   X  |   X  |   X  |   X  |
-| <b>RF08</b> |	Relatório de nível de aprovação disciplina	|      |   X  |      |      |      |      |      |      |   X  |			
+| <b>RF01</b> |	Cadastramento de Disciplinas	                |   X  |      |      |   X  |   X  |      |      |   X  |
+| <b>RF02</b> | Cadastramento de Graduação	                |      |   X  |      |   X  |      |      |      |      |
+| <b>RF03</b> |	Cadastramento de Professores			|   X  |   X  |   X  |   X  |      |      |      |      |
+| <b>RF04</b> |	Cadastramento de Disciplinas por Professor	|   X  |      |   X  |   X  |   X  |      |      |      |	
+| <b>RF05</b> |	Cadastramento de Alunos				|   X  |      |      |      |      |   X  |      |   X  |
+| <b>RF06</b> |	Cadastrar as Notas por Disciplina		|   X  |      |      |      |   X  |   X  |   X  |   X  |
+| <b>RF07</b> |	Relatório de Alunos Aprovados			|   X  |      |      |      |   X  |   X  |   X  |   X  |
+| <b>RF08</b> |	Relatório de nível de aprovação disciplina	|   X  |      |      |      |      |      |      |   X  |			
 
 
 

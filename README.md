@@ -46,7 +46,7 @@
 ## A Matriz de dependência de requisitos												
 												
 | <b>Requisistos de negócio</b>                              | <b>RF01</b> | <b>RF02</b> | <b>RF03</b> | <b>RF04</b> | <b>RF05</b> | <b>RF06</b> | <b>RF07</b> | <b>RF08</b> |
-| --------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|												
+| ---------------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|												
 | <b>RN01</b> |	Conhecer as Disciplinas                     |   X  |      |      |      |      |      |      |      |							
 | <b>RN02</b> |	Conhecer as Graduação dos Professores       |   X  |   X  |      |      |      |      |      |      |						
 | <b>RN03</b> |	Conhecer os Professores                     |   X  |      |   X  |      |      |      |      |      |					

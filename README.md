@@ -25,6 +25,20 @@
 | RF06     | Lançamento de Notas por Disciplina   | Inserir, Alterar, Consultar, Deletar e Relatório de Notas por Disciplina. 
 | RF07     | Relatório de nível de aprovação por disciplina    | Filtrar o relatório por ano letivo e disciplina. Caso deixe sem informação, vai trazer tudo
 
+## Mudge
+
+| RNO1  | RNO2 | RNO3 | RNO4  | RNO5 | RNO6 | RNO7  | RNO8 | TOTAL | Porcentagem  |
+| -----|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|    | RNO2 | RNO3 | RNO4  | RNO5 | RNO6 | RNO7  | RNO8 |
+|RNO1| RNO1-2 |	RNO1-2 |	RNO1-2 | RNO1-2 |	RNO1-2 |	RNO1-2 |	RNO1-2 |	14	| 27% |
+|     | RNO2 |	RNO2-2 |	RNO2-1	| RNO2-1 |	RNO2-1 |	RNO2-1 |	RNO2-1 |	6 |	12% |
+|     |     | RNO3 |	RNO3-2 |	RNO3-2 |	RNO3-1 |	RNO3-1 |	RNO3-2 |	8 |	16% |
+|     |     |     | RNO4 |	RNO4-2 |	RNO4-1 |	RNO4-1 |	RNO4-2 |	6 |	12% |
+|     |     |     |     | RNO5 |	RNO5-2 |	RNO5-2 |	RNO5-1 |	5 |	10% |
+|     |     |     |     |     | RNO6 |	RNO6-3 |	RNO6-3 |	6 |	12% |
+|     |     |     |     |     |     | RNO7 |	RNO7-3 |	3 |	6% |
+|     |     |     |     |     |     |     | RNO8 |	3 |	6% |
+|     |     |     |     |     |     |     |     | 51  |	100% |
 
 
 

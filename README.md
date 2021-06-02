@@ -55,7 +55,7 @@
 | RN06 |	Lancar as notas dos alunos                  |   X  |      |      |      |      |      |      |      |							
 | RN07 |	Calcular aprovação dos alunos               |   X  |      |      |      |      |      |      |      |							
 | RN08 |	Calcular aprovação por disciplina           |   X  |      |      |      |      |      |      |      |						
-|-------------------------------------------------------------------------------------------------------------|
+|                                                                                                                   |
 | Requisistos Funcionais	                            | RF01 | RF02 | RF03 | RF04 | RF05 | RF06 | RF07 | RF08 |
 | --------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | RF01 |	Cadastramento de Disciplinas				        |   X  |      |      |   X  |   X  |      |      |   X  |

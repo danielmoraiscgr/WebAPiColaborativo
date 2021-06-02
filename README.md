@@ -38,9 +38,9 @@
 | 	  	 |			  |        |        |        |        | [RNO7] | RNO7-3 | 3 | 6% |
 | 	  	 |			  |        |        |        |        |        | [RNO8] | 3 | 6% |
 | 	  	 |			  |        |        |        |        |        |        | 51 | 100% |
-                      #####Peso 1 – pouco mais importante
-                      #####Peso 2 – moderadamente mais importante
-                      #####Peso 3 – muito mais importante
+                      ____Peso 1 – pouco mais importante
+                      ____Peso 2 – moderadamente mais importante
+                      ____Peso 3 – muito mais importante
                       
                       
 ## A Matriz de dependência de requisitos												
@@ -57,7 +57,6 @@
 | RN08 |	Calcular aprovação por disciplina           |   X  |      |      |      |      |      |      |      |						
 |                                                                                                                   |
 | Requisistos Funcionais	                            | RF01 | RF02 | RF03 | RF04 | RF05 | RF06 | RF07 | RF08 |
-| --------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | RF01 |	Cadastramento de Disciplinas				        |   X  |      |      |   X  |   X  |      |      |   X  |
 | RF02 |	Cadastramento de Graduação							    |      |   X  |      |   X  |      |      |      |      |
 | RF03 |	Cadastramento de Professores						    |   X  |   X  |   X  |   X  |      |      |      |      |

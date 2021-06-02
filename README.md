@@ -1,4 +1,4 @@
-# WebAPiColaborativo
+# WebAPiColaborativo (Sistema de Notas)
 
 ## Requisitos de Negócio
 
@@ -12,3 +12,29 @@
 | RN06     | Lançar as notas dos alunos.  | Para conseguir o resultado de nível de aprovação por disciplina, as notas dos alunos do semestre devem estar lançados.
 | RN07     | Calcular aprovação dos alunos  | Processar o calculo de aprovação do aluno. Informando que os alunos com média <=5 (REP) >5 e <7 (REC) e >=7 (AP)
 | RN08     | Calcular aprovação por disciplina | Calcular o percentual de alunos aprovados (AP) por disicplina. E apresentar em relatório e gráficos.
+
+## Requisitos Funcionais
+
+| Código  | Requisito | Detalhes |
+| ------------- |:-------------:|:---------------:|
+| RF01     | Cadastramento de Disciplinas    | Inserir, Alterar, Consultar, Deletar e Relatório das Disciplinas
+| RF02     | Cadastramento de Graduação    | Inserir, Alterar, Consultar, Deletar e Relatório das Graduação
+| RF03     | Cadastramento de Professores   | Inserir, Alterar, Consultar, Deletar e Relatório dos Professores
+| RF04     | Cadastramento de Disciplinas por Professor    | Inserir, Alterar, Consultar, Deletar e Relatório das Disciplinas por Professor
+| RF05    | Cadastramento de Alunos   | Inserir, Alterar, Consultar, Deletar e Relatório de Alunos
+| RF06     | Lançamento de Notas por Disciplina   | Inserir, Alterar, Consultar, Deletar e Relatório de Notas por Disciplina. 
+| RF07     | Relatório de nível de aprovação por disciplina    | Filtrar o relatório por ano letivo e disciplina. Caso deixe sem informação, vai trazer tudo
+
+
+
+
+
+
+
+
+
+
+
+
+
+

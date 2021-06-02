@@ -27,7 +27,7 @@
 
 ## Tabela de Mudge
 
-|        | <b>RNO2</b> | <b>RNO3</b>] | <b>RNO4</b> | <b>RN05</b>] | <b>RNO6</b> | <b>RNO7</b> | <b>RN08</b> | <b>Total</b> | <b>%</b> |
+|        | <b>RNO2</b> | <b>RNO3</b>] | <b>RNO4</b> | <b>RN05</b> | <b>RNO6</b> | <b>RNO7</b> | <b>RN08</b> | <b>Total</b> | <b>%</b> |
 | ------ |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:---:|
 | <b>RNO1</b>] | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | 14 | 27% |
 |	       | <b>RNO2</b> | RNO2-2 | RNO2-1 | RNO2-1 | RNO2-1 | RNO2-1 | RNO2-1 | 6 | 12% |

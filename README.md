@@ -27,12 +27,12 @@
 
 ## Tabela de Mudge
 
-|        | <b>RNO2</b> | <b>RNO3</b>] | <b>RNO4</b> | <b>RN05</b> | <b>RNO6</b> | <b>RNO7</b> | <b>RN08</b> | <b>Total</b> | <b>%</b> |
+|        | <b>RNO2</b> | <b>RNO3</b> | <b>RNO4</b> | <b>RN05</b> | <b>RNO6</b> | <b>RNO7</b> | <b>RN08</b> | <b>Total</b> | <b>%</b> |
 | ------ |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:---:|
-| <b>RNO1</b>] | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | 14 | 27% |
+| <b>RNO1</b> | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | 14 | 27% |
 |	       | <b>RNO2</b> | RNO2-2 | RNO2-1 | RNO2-1 | RNO2-1 | RNO2-1 | RNO2-1 | 6 | 12% |
-|		     |        | <b>RNO3</b>] | RNO3-2 | RNO3-2 | RNO3-1 | RNO3-1 | RNO3-2 | 8 | 16% |
-|        |        |        | <b>RNO4</b>] | RNO4-2 | RNO4-1 | RNO4-1 | RNO4-2 | 6 | 12% |
+|		     |        | <b>RNO3</b> | RNO3-2 | RNO3-2 | RNO3-1 | RNO3-1 | RNO3-2 | 8 | 16% |
+|        |        |        | <b>RNO4</b> | RNO4-2 | RNO4-1 | RNO4-1 | RNO4-2 | 6 | 12% |
 |				 |        |        |        | <b>RNO5</b> | RNO5-2 | RNO5-2 | RNO5-1 | 5 | 10% |
 | 	  	 |			  |        |        |        | <b>RNO6</b> | RNO6-3 | RNO6-3 | 6 | 12% |
 | 	  	 |			  |        |        |        |        | <b>RNO7</b> | RNO7-3 | 3 | 6% |

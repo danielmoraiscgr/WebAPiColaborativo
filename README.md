@@ -27,16 +27,16 @@
 
 ## Tabela de Mudge
 
-|        | [RNO2] |	[RNO3] | [RNO4] |	[RN05] | [RNO6] |	[RNO7] | [RN08] | [Total] |	[%] |
+|        | <b>RNO2</b> | <b>RNO3</b>] | <b>RNO4</b> | <b>RN05</b>] | <b>RNO6</b> | <b>RNO7</b> | <b>RN08</b> | <b>Total</b> | <b>%</b> |
 | ------ |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:---:|
 | <b>RNO1</b>] | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | RNO1-2 | 14 | 27% |
-|	       | [RNO2] | RNO2-2 | RNO2-1 | RNO2-1 | RNO2-1 | RNO2-1 | RNO2-1 | 6 | 12% |
-|		     |        | [RNO3] | RNO3-2 | RNO3-2 | RNO3-1 | RNO3-1 | RNO3-2 | 8 | 16% |
-|        |        |        | [RNO4] | RNO4-2 | RNO4-1 | RNO4-1 | RNO4-2 | 6 | 12% |
-|				 |        |        |        | [RNO5] | RNO5-2 | RNO5-2 | RNO5-1 | 5 | 10% |
-| 	  	 |			  |        |        |        | [RNO6] | RNO6-3 | RNO6-3 | 6 | 12% |
-| 	  	 |			  |        |        |        |        | [RNO7] | RNO7-3 | 3 | 6% |
-| 	  	 |			  |        |        |        |        |        | [RNO8] | 3 | 6% |
+|	       | <b>RNO2</b> | RNO2-2 | RNO2-1 | RNO2-1 | RNO2-1 | RNO2-1 | RNO2-1 | 6 | 12% |
+|		     |        | <b>RNO3</b>] | RNO3-2 | RNO3-2 | RNO3-1 | RNO3-1 | RNO3-2 | 8 | 16% |
+|        |        |        | <b>RNO4</b>] | RNO4-2 | RNO4-1 | RNO4-1 | RNO4-2 | 6 | 12% |
+|				 |        |        |        | <b>RNO5</b> | RNO5-2 | RNO5-2 | RNO5-1 | 5 | 10% |
+| 	  	 |			  |        |        |        | <b>RNO6</b> | RNO6-3 | RNO6-3 | 6 | 12% |
+| 	  	 |			  |        |        |        |        | <b>RNO7</b> | RNO7-3 | 3 | 6% |
+| 	  	 |			  |        |        |        |        |        | <b>RNO8</b> | 3 | 6% |
 | 	  	 |			  |        |        |        |        |        |        | 51 | 100% |
                       ____Peso 1 – pouco mais importante
                       ____Peso 2 – moderadamente mais importante
@@ -45,26 +45,26 @@
                       
 ## A Matriz de dependência de requisitos												
 												
-| [Requisistos de negócio]                              | [RF01] | [RF02] | [RF03] | [RF04] | [RF05] | [RF06] | [RF07] | [RF08] |
+| <b>Requisistos de negócio</b>                              | <b>RF01</b> | <b>RF02</b> | <b>RF03</b> | <b>RF04</b> | <b>RF05</b> | <b>RF06</b> | <b>RF07</b> | <b>RF08</b> |
 | --------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|												
-| [RN01] |	Conhecer as Disciplinas                     |   X  |      |      |      |      |      |      |      |							
-| [RN02] |	Conhecer as Graduação dos Professores       |   X  |   X  |      |      |      |      |      |      |						
-| [RN03] |	Conhecer os Professores                     |   X  |      |   X  |      |      |      |      |      |					
-| [RN04] |	Conhecer os Alunos                          |   X  |      |      |      |      |      |      |      |							
-| [RN05] |	Ligar os alunos as disciplinas              |   X  |      |      |      |      |      |      |      |							
-| [RN06] |	Lancar as notas dos alunos                  |   X  |      |      |      |      |      |      |      |							
-| [RN07] |	Calcular aprovação dos alunos               |   X  |      |      |      |      |      |      |      |							
-| [RN08] |	Calcular aprovação por disciplina           |   X  |      |      |      |      |      |      |      |						
+| <b>RN01</b> |	Conhecer as Disciplinas                     |   X  |      |      |      |      |      |      |      |							
+| <b>RN02</b> |	Conhecer as Graduação dos Professores       |   X  |   X  |      |      |      |      |      |      |						
+| <b>RN03</b> |	Conhecer os Professores                     |   X  |      |   X  |      |      |      |      |      |					
+| <b>RN04</b> |	Conhecer os Alunos                          |   X  |      |      |      |      |      |      |      |						
+| <b>RN05</b> |	Ligar os alunos as disciplinas              |   X  |      |      |      |      |      |      |      |						
+| <b>RN06</b> |	Lancar as notas dos alunos                  |   X  |      |      |      |      |      |      |      |						
+| <b>RN07</b> |	Calcular aprovação dos alunos               |   X  |      |      |      |      |      |      |      |						
+| <b>RN08</b> |	Calcular aprovação por disciplina           |   X  |      |      |      |      |      |      |      |						
 |                                                                                                                   |
-| [Requisistos Funcionais]	                            | [RF01] | [RF02] | [RF03] | [RF04] | [RF05] | [RF06] | [RF07] | [RF08] |
-| [RF01] |	Cadastramento de Disciplinas				        |   X  |      |      |   X  |   X  |      |      |   X  |
-| [RF02] |	Cadastramento de Graduação							    |      |   X  |      |   X  |      |      |      |      |
-| [RF03] |	Cadastramento de Professores						    |   X  |   X  |   X  |   X  |      |      |      |      |
-| [RF04] |	Cadastramento de Disciplinas por Professor	|   X  |      |   X  |   X  |   X  |      |      |      |	
-| [RF05] |	Cadastramento de Alunos								      |   X  |      |      |      |      |   X  |      |   X  |
-| [RF06] |	Cadastrar as Notas por Disciplina				    |   X  |      |      |      |   X  |   X  |   X  |   X  |
-| [RF07] |	Relatório de Alunos Aprovados				        |   X  |      |      |      |   X  |   X  |   X  |   X  |
-| [RN08] |	Relatório de nível de aprovação disciplina	|   X  |      |      |      |      |      |      |   X  |			
+| <b>Requisistos Funcionais</b>	                            | <b>RF01</b> | <b>RF02</b> | <b>RF03</b> | <b>RF04</b> | <b>RF05</b> | <b>RF06</b> | <b>RF07</b> | <b>RF08</b> |
+| <b>RF01</b> |	Cadastramento de Disciplinas				        |   X  |      |      |   X  |   X  |      |      |   X  |
+| <b>RF02</b> | Cadastramento de Graduação							    |      |   X  |      |   X  |      |      |      |      |
+| <b>RF03</b> |	Cadastramento de Professores						    |   X  |   X  |   X  |   X  |      |      |      |      |
+| <b>RF04</b> |	Cadastramento de Disciplinas por Professor	|   X  |      |   X  |   X  |   X  |      |      |      |	
+| <b>RF05</b> |	Cadastramento de Alunos								      |   X  |      |      |      |      |   X  |      |   X  |
+| <b>RF06</b> |	Cadastrar as Notas por Disciplina				    |   X  |      |      |      |   X  |   X  |   X  |   X  |
+| <b>RF07</b> |	Relatório de Alunos Aprovados				        |   X  |      |      |      |   X  |   X  |   X  |   X  |
+| <b>RF08</b> |	Relatório de nível de aprovação disciplina	|   X  |      |      |      |      |      |      |   X  |			
 
 
 

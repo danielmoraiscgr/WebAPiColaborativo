@@ -46,25 +46,25 @@
 ## A Matriz de dependência de requisitos												
 												
 | <b>Requisistos de negócio</b>                              | <b>RF01</b> | <b>RF02</b> | <b>RF03</b> | <b>RF04</b> | <b>RF05</b> | <b>RF06</b> | <b>RF07</b> | <b>RF08</b> |
-| -----------------------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|												
-| <b>RN01</b> |	Conhecer as Disciplinas                     |   X  |      |      |      |      |      |      |      |							
-| <b>RN02</b> |	Conhecer as Graduação dos Professores       |   X  |   X  |      |      |      |      |      |      |						
-| <b>RN03</b> |	Conhecer os Professores                     |   X  |      |   X  |      |      |      |      |      |					
-| <b>RN04</b> |	Conhecer os Alunos                          |   X  |      |      |      |      |      |      |      |						
-| <b>RN05</b> |	Ligar os alunos as disciplinas              |   X  |      |      |      |      |      |      |      |						
-| <b>RN06</b> |	Lancar as notas dos alunos                  |   X  |      |      |      |      |      |      |      |						
-| <b>RN07</b> |	Calcular aprovação dos alunos               |   X  |      |      |      |      |      |      |      |						
-| <b>RN08</b> |	Calcular aprovação por disciplina           |   X  |      |      |      |      |      |      |      |						
+| ----------------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|												
+| <b>RN01</b> |	Conhecer as Disciplinas               |      |   X  |      |      |      |      |      |      |      |							
+| <b>RN02</b> |	Conhecer as Graduação dos Professores |      |   X  |   X  |      |      |      |      |      |      |						
+| <b>RN03</b> |	Conhecer os Professores               |      |   X  |      |   X  |      |      |      |      |      |					
+| <b>RN04</b> |	Conhecer os Alunos                    |      |   X  |      |      |      |      |      |      |      |						
+| <b>RN05</b> |	Ligar os alunos as disciplinas        |      |   X  |      |      |      |      |      |      |      |						
+| <b>RN06</b> |	Lancar as notas dos alunos            |      |   X  |      |      |      |      |      |      |      |						
+| <b>RN07</b> |	Calcular aprovação dos alunos         |      |   X  |      |      |      |      |      |      |      |						
+| <b>RN08</b> |	Calcular aprovação por disciplina     |      |   X  |      |      |      |      |      |      |      |						
 |                                                                                                                   |
 | <b>Requisistos Funcionais</b>	                            | <b>RF01</b> | <b>RF02</b> | <b>RF03</b> | <b>RF04</b> | <b>RF05</b> | <b>RF06</b> | <b>RF07</b> | <b>RF08</b> |
-| <b>RF01</b> |	Cadastramento de Disciplinas				        |   X  |      |      |   X  |   X  |      |      |   X  |
-| <b>RF02</b> | Cadastramento de Graduação							    |      |   X  |      |   X  |      |      |      |      |
-| <b>RF03</b> |	Cadastramento de Professores						    |   X  |   X  |   X  |   X  |      |      |      |      |
-| <b>RF04</b> |	Cadastramento de Disciplinas por Professor	|   X  |      |   X  |   X  |   X  |      |      |      |	
-| <b>RF05</b> |	Cadastramento de Alunos								      |   X  |      |      |      |      |   X  |      |   X  |
-| <b>RF06</b> |	Cadastrar as Notas por Disciplina				    |   X  |      |      |      |   X  |   X  |   X  |   X  |
-| <b>RF07</b> |	Relatório de Alunos Aprovados				        |   X  |      |      |      |   X  |   X  |   X  |   X  |
-| <b>RF08</b> |	Relatório de nível de aprovação disciplina	|   X  |      |      |      |      |      |      |   X  |			
+| <b>RF01</b> |	Cadastramento de Disciplinas	                |      |   X  |      |      |   X  |   X  |      |      |   X  |
+| <b>RF02</b> | Cadastramento de Graduação	                |      |      |   X  |      |   X  |      |      |      |      |
+| <b>RF03</b> |	Cadastramento de Professores			|      |   X  |   X  |   X  |   X  |      |      |      |      |
+| <b>RF04</b> |	Cadastramento de Disciplinas por Professor	|      |   X  |      |   X  |   X  |   X  |      |      |      |	
+| <b>RF05</b> |	Cadastramento de Alunos				|      |   X  |      |      |      |      |   X  |      |   X  |
+| <b>RF06</b> |	Cadastrar as Notas por Disciplina		|      |   X  |      |      |      |   X  |   X  |   X  |   X  |
+| <b>RF07</b> |	Relatório de Alunos Aprovados			|      |   X  |      |      |      |   X  |   X  |   X  |   X  |
+| <b>RF08</b> |	Relatório de nível de aprovação disciplina	|      |   X  |      |      |      |      |      |      |   X  |			
 
 
 

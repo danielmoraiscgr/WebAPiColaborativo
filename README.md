@@ -54,7 +54,7 @@
 | <b>RN05</b> |	Ligar os alunos as disciplinas        |   X  |     |      |      |      |      |      |      |      |						
 | <b>RN06</b> |	Lancar as notas dos alunos            |   X  |     |      |      |      |      |      |      |      |						
 | <b>RN07</b> |	Calcular aprovação dos alunos         |   X  |     |      |      |      |      |      |      |      |						
-| <b>RN08</b> |	Calcular aprovação por disciplina     |      |     |      |      |      |      |      |      |      |						
+| <b>RN08</b> |	Calcular aprovação por disciplina     |   X  |     |      |      |      |      |      |      |      |						
 |                                                                                                                   |
 | <b>Requisistos Funcionais</b>	                            | <b>RF01</b> | <b>RF02</b> | <b>RF03</b> | <b>RF04</b> | <b>RF05</b> | <b>RF06</b> | <b>RF07</b> | <b>RF08</b> |
 | <b>RF01</b> |	Cadastramento de Disciplinas	                |      |   X  |      |      |   X  |   X  |      |      |   X  |
